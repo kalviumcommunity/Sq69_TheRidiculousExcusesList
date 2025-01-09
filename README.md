@@ -1,1 +1,0 @@
-# Sq69_TheRidiculousExcusesList
