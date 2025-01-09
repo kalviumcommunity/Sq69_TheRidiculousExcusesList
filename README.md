@@ -1,14 +1,12 @@
-# Sq69_TheRidiculousExcusesList
-# ASAP Project
+# List of the Most Ridiculous Excuses People Gave for Being Late
 
-## Project Title
-ASAP - A Simple Agile Project
+## Project Idea
+The idea of this project is to create a list of the most ridiculous and funny excuses people have given for being late. Users will be able to submit their own excuses, vote on others, and view the most popular ones.
 
-## Idea
-The ASAP Project aims to simplify agile development processes for small teams by providing a straightforward project management tool.
+## Key Features
+- **User Authentication**: Users can register and log in to submit their excuses.
+- **Submit Excuses**: Users can submit their excuses for being late.
+- **Vote on Excuses**: Users can vote on the most ridiculous excuses.
+- **View Excuses**: Display a list of the most popular excuses.
+- **API Integration**: Use REST APIs for adding, voting, and viewing excuses.
 
-## Features
-- Task Management: Add, update, and delete tasks easily.
-- Collaboration: Simple interface for team discussions.
-- User-Friendly: Intuitive design for quick navigation.
-- Analytics: Insights on project progress and bottlenecks. 
