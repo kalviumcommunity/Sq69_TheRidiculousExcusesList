@@ -11,4 +11,4 @@ The ASAP Project aims to simplify agile development processes for small teams by
 - Task Management: Add, update, and delete tasks easily.
 - Collaboration: Simple interface for team discussions.
 - User-Friendly: Intuitive design for quick navigation.
-- Analytics: Insights on project progress and bottlenecks.
+- Analytics: Insights on project progress and bottlenecks. 
